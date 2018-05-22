@@ -1,3 +1,5 @@
 This is an example of a simple text file (not markdown). It is included so you can see how GitHub's web portal represents files.
 
-Updating the file 
+Updating the file
+
+merge conflict: i like kittens
