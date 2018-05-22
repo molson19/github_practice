@@ -2,4 +2,5 @@ This is an example of a simple text file (not markdown). It is included so you c
 
 Updating the file
 
-merge conflict: i like kittens
+
+merge conflict: I like puppies
